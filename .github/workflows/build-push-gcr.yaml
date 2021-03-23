@@ -8,9 +8,9 @@ on:
 
 env:
   # Change this section according to your needs
-  IMAGE_NAME:   samples-bi-demo-ru
-  SERVICE:      samples-bi-demo
-  DOMAIN_NAME:  samples-bi-demo-ru.demo.community.intersystems.com
+  IMAGE_NAME:   pex
+  SERVICE:      pex
+  DOMAIN_NAME:  pex.demo.community.intersystems.com
 
   # Leave this section untouched
   PROJECT_ID:   iris-community-demos
